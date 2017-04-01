@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------
 
-### Programming Assignment 1: Implementing a reliable and ordered multicast protocol ###
+### Programming Assignment 1: Implementing a reliable and totaly ordered multicast protocol ###
 
 The task is to create a class (with any number of helping classes of course) that implements a reliable and ordered multicast module by extending the Multicaster class and using the MulticasterUI interface to communicate with the provided graphical interface and the BasicCommunicator interface to send point-to-point messages to the other processes.
 
@@ -10,6 +10,6 @@ The task is to create a class (with any number of helping classes of course) tha
 
 ### Programming Assignment 2: Routing in sensor networks ###
 
-In this lab we are going to simulate a small network of MicaZ sensor nodes.
+The task is to create an optimized routing algorithm for a micaz sensor network for several different topologies. The algorithmm is tested on a simulation platform writen in Python. The benchmark for the algorithm is the number of messages that are received by the drain.
 
 -----------------------------------------------------------------
