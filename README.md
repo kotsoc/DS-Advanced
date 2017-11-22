@@ -2,9 +2,9 @@
 
 -----------------------------------------------------------------
 
-### Programming Assignment 1: Implementing a reliable and totaly ordered multicast protocol ###
+### McCast : Implementing a reliable and totaly ordered multicast protocol ###
 
-The task is to create a class (with any number of helping classes of course) that implements a reliable and ordered multicast module by extending the Multicaster class and using the MulticasterUI interface to communicate with the provided graphical interface and the BasicCommunicator interface to send point-to-point messages to the other processes.
+Implemented a protocol for reliable and ordered multicast module by extending the Multicaster class and using the MulticasterUI interface to communicate with the provided graphical interface and the BasicCommunicator interface to send point-to-point messages to the other processes.
 
 -----------------------------------------------------------------
 
