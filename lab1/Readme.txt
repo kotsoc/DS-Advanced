@@ -1,3 +1,6 @@
+McCast is a reliable ordered multicast protocol that makes use of vectors clocks for one to all
+ordered dissemination.
+
 Set classpath
 $> export CLASSPATH="/chalmers/groups/cse-ds2/javapackages:."
 
