@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------
 
-### McCast : Implementing a reliable and totaly ordered multicast protocol ###
+### McCast : Implementing a reliable and totally ordered multicast protocol ###
 
 Implemented a protocol for reliable and ordered multicast module by extending the Multicaster class and using the MulticasterUI interface to communicate with the provided graphical interface and the BasicCommunicator interface to send point-to-point messages to the other processes.
 
